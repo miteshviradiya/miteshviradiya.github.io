@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Permission used by the application**
 
-Following permission is being used by the application
+Following run time permission is being used by the application
 
 *   Storage Permission: Application asked for this permission in order to store backups of app record locally and for image picking functionality
 *   Camera Permission: Application asked for this permission in order to capture the image of selling records  
