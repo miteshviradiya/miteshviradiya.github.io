@@ -10,6 +10,14 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Diamond Broker unless otherwise defined in this Privacy Policy.
 
+**Permission used by the application**
+
+Following permission is being used by the application
+
+*   Storage Permission: Application asked for this permission in order to store backups of app record locally and for image picking functionality
+*   Camera Permission: Application asked for this permission in order to capture the image of selling records  
+>   Note: If the user wants than they can avoid these permissions which does not impact the basic function of the application
+
 **Information Collection and Use**
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
