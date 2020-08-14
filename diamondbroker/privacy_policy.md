@@ -1,5 +1,4 @@
 # DiamondBroker
-Diamond Broker
 **Privacy Policy**
 
 Mitesh Viradiya built the Diamond Broker app as a Free app. This SERVICE is provided by Mitesh Viradiya at no cost and is intended for use as is.
